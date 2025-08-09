@@ -1,2 +1,9 @@
-# Dungeons-and-Shuttles-Evolution
+# Dungeons and Shuttles Evolution
 A technology, exploration, and magic-focused Minecraft modpack combining advanced machines, mysterious magic systems, and adventurous exploration into a single evolving journey.
+
+This is the official repository and issue tracker for the **Dungeons and Shuttles Evolution** modpack for Minecraft **1.21**.
+
+⚠ **Note:** To run this modpack, you will also need to install 4 required Fabric mods. Please make sure to download and include them when setting up the modpack.
+
+💬 Found a bug or have a suggestion?  
+Feel free to create an **issue** — your feedback helps the modpack grow and improve!
